@@ -2,3 +2,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+
+
+// Jetbrains
+dir_to_ignore/ .idea
