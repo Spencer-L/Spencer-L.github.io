@@ -2,3 +2,30 @@
 ---
 
 @import "main";
+
+@font-face {
+  font-family: 'Boldini';
+  src: url("/assets/fonts/Boldini-Regular.ttf");
+  font-style: normal;
+  font-weight: 50;
+}
+
+@font-face {
+  font-family: Titillium;
+  src: url("/assets/fonts/TitilliumWeb-Light.ttf");
+  font-style: normal;
+  font-weight: 100;
+}
+
+h2 {
+  font-family: Boldini;
+  font-weight: 50;
+  color: #F4830F;
+  font-size: x-large;
+}
+
+p {
+  font-family: Titillium;
+  font-weight: 100;
+  font-size: large;
+}

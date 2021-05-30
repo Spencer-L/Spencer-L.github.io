@@ -2,8 +2,10 @@
 layout: home
 title: About
 ---
-# Modern Renaissance Man
-
+<div style="text-align: center">
+<h2>Who is Spencer?</h2>
+</div>
+<br>
 I am a programmer with a strong passion
 in combining multiple disciplines to make
 innovative and effective creations
@@ -15,12 +17,13 @@ studying to get my BS in CS and a minor
 in Interactive Media at the University
 of Southern California and will be
 graduating in 2024.
-# Contact 
 
-spencerlin.2002@gmail.com
-
-(626) 492 2828
+<div style="text-align: center">
+<h2>Contact</h2>
+<br><p>spencerlin.2002@gmail.com<br></p>
+<p>(626) 492 2828</p>
 
 <p><a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
-    <img src="assets/images/linkedin.png"  align="center" width="50" height="50">
+    <img src="assets/images/linkedin.png"  align="center" width="30" height="30">
 </a></p>
+</div>
