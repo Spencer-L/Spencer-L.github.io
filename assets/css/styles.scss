@@ -3,20 +3,6 @@
 
 @import "main";
 
-@font-face {
-  font-family: 'Boldini';
-  src: url("/assets/fonts/Boldini-Regular.ttf");
-  font-style: normal;
-  font-weight: 50;
-}
-
-@font-face {
-  font-family: Titillium;
-  src: url("/assets/fonts/TitilliumWeb-Light.ttf");
-  font-style: normal;
-  font-weight: 100;
-}
-
 h2 {
   font-family: Boldini;
   font-weight: 50;
@@ -24,8 +10,45 @@ h2 {
   font-size: x-large;
 }
 
+h3 {
+  font-family: Boldini;
+  font-weight: 50;
+  color: black;
+  font-size: large;
+}
+
 p {
   font-family: Titillium;
   font-weight: 100;
   font-size: large;
+}
+
+body {
+  min-height: 100vh;
+}
+
+
+.nav-item {
+  font-size: larger;
+  margin-right: 25px;
+}
+
+.nav-item:last-child {
+  margin-right: 0;
+}
+
+.nav-item:hover {
+  text-decoration: none;
+}
+
+.bio {
+  width: 500px;
+}
+
+.header-name {
+  color: black;
+}
+
+.header-name:hover {
+  text-decoration: none;
 }

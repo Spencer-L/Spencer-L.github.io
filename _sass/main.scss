@@ -1,3 +1,64 @@
+@font-face {
+  font-family: 'Boldini';
+  src: url("/assets/fonts/Boldini-Regular.ttf");
+  font-style: normal;
+  font-weight: 50;
+}
+
+@font-face {
+  font-family: Titillium;
+  src: url("/assets/fonts/TitilliumWeb-Light.ttf");
+  font-style: normal;
+  font-weight: 100;
+}
+
+@font-face {
+  font-family: Titillium-Bold;
+  src: url("/assets/fonts/TitilliumWeb-Bold.ttf");
+  font-style: normal;
+  font-weight: 100;
+}
+
+
 .current {
+  font-size: larger;
   color: #F4830F;
+  margin-right: 25px;
+}
+
+.current:last-child {
+  margin-right: 0px;
+}
+
+.current:hover {
+  text-decoration: none;
+}
+
+nav {
+  font-family: Boldini;
+}
+
+.hover10 figure img {
+  opacity: 1;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
+.hover10 figure:hover img {
+  opacity: 0.5;
+}
+
+//.vertical-center {
+//  display: flex;
+//  flex-direction: column;
+//  justify-content: center;
+//  align-items: center;
+//}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
