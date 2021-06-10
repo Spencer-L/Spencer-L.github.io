@@ -2,13 +2,13 @@
 layout: home
 title: About
 ---
-<div class="center" style="margin-top: 50px">
+<div align="center" style="margin-top: 50px">
 
 <p style="text-align: center">
     <img src="assets/images/pfp-cicle.png" width="200" height="200">
 </p>
 <br>
-<h2 style="text-align: center">Who is Spencer?</h2>
+<h1 style="text-align: center">Who is Spencer?</h1>
 <br>
 
 <p class="bio">
@@ -27,12 +27,15 @@ graduating in 2024.
 
 <div style="text-align: center">
 <br>
-<h2>Contact</h2>
-<br><p>spencerlin.2002@gmail.com<br></p>
-<p>(626) 492 2828</p>
+<h1>Contact</h1>
 
-<p><a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
-    <img src="assets/images/linkedin.png"  align="center" width="30" height="30">
-</a></p>
+<p>spencerlin.2002@gmail.com
+<br>
+(626) 492 2828
+<br>
+<a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
+    <img src="assets/images/linkedin.png" align="center" width="30" height="30">
+</a>
+</p>
 </div>
 </div>

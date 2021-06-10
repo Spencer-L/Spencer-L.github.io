@@ -3,11 +3,18 @@
 
 @import "main";
 
-h2 {
+h1 {
   font-family: Boldini;
-  font-weight: 50;
+  font-weight: 100;
   color: #F4830F;
   font-size: x-large;
+}
+
+h2 {
+  font-family: Boldini;
+  font-weight: 20;
+  color: #F4830F;
+  font-size: larger;
 }
 
 h3 {
@@ -17,16 +24,24 @@ h3 {
   font-size: large;
 }
 
+h4 {
+  font-family: Titillium-Bold;
+  font-weight: 100;
+  color: black;
+  font-size: larger;
+}
+
 p {
   font-family: Titillium;
   font-weight: 100;
   font-size: large;
 }
 
-body {
-  min-height: 100vh;
+ul {
+  font-family: Titillium;
+  font-weight: 100;
+  font-size: large;
 }
-
 
 .nav-item {
   font-size: larger;
@@ -42,6 +57,7 @@ body {
 }
 
 .bio {
+  text-align: left;
   width: 500px;
 }
 
@@ -52,3 +68,8 @@ body {
 .header-name:hover {
   text-decoration: none;
 }
+
+.left-align {
+  text-align: left;
+}
+
