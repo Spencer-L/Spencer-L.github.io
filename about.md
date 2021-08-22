@@ -2,7 +2,7 @@
 layout: home
 title: About
 ---
-<div align="center" style="margin-top: 50px">
+<div align="center" style="margin-top: 6%">
 
 <p style="text-align: center">
     <img src="assets/images/pfp-cicle.png" width="200" height="200">
@@ -12,13 +12,13 @@ title: About
 <br>
 
 <p class="bio">
-I am a programmer with a strong passion
+I am a software engineer with a strong passion
 in combining multiple disciplines to make
 innovative and effective creations
 ranging from autonomous unmanned aerial
 systems that gather plant health data to an
-ultra cost-effective V-Mount battery and
-cinema equipment.  I am currently
+ultra cost-effective V-Mount battery 
+for cinema cameras.  I am currently
 studying to get my BS in CS and a minor
 in Interactive Media at the University
 of Southern California and will be
