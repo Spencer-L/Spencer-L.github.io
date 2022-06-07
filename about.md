@@ -31,12 +31,12 @@ from the University of Southern California in 2024.
 <br>
 (626) 492 2828
 <br>
+</p>
 <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
     <img src="assets/images/linkedin.png" align="center" width="30" height="30">
 </a>
 <a href="https://github.com/Spencer-L" target="_blank">
     <img src="assets/images/GitHub-Logo.png" width="30" height="30">
 </a>
-</p>
 </div>
 </div>
