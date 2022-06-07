@@ -48,16 +48,15 @@ ul {
 }
 
 .main__title {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
 }
 
 .nav-item {
-  font-size: larger;
-  margin-right: 25px;
+  font-size: x-large;
 }
 
-.nav-item:last-child {
-  margin-right: 0;
+.nav-item:not(:last-child) {
+  margin-right: 25px;
 }
 
 .nav-item:hover {
@@ -71,6 +70,11 @@ ul {
 
 .header-name {
   color: black;
+  margin-left: 60px;
+}
+
+.job-title{
+  margin-left: 60px;
 }
 
 .header-name:hover {

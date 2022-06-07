@@ -21,13 +21,12 @@
 
 
 .current {
-  font-size: larger;
+  font-size: x-large;
   color: #F4830F;
-  margin-right: 25px;
 }
 
-.current:last-child {
-  margin-right: 0px;
+.current:not(:last-child) {
+  margin-right: 25px;
 }
 
 .current:hover {
