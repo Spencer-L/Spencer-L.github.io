@@ -14,13 +14,13 @@ title: About
 <p class="bio">
 I am a software engineer with a strong passion
 in combining multiple disciplines to make
-innovative and effective creations
-ranging from autonomous unmanned aerial
-systems that gather plant health data to an
-ultra cost-effective V-Mount battery 
-for cinema cameras.  I will be graduating with
-a BS in CS and a minor in Interactive Media
-from the University of Southern California in 2024.
+innovative creations ranging from autonomous 
+unmanned aerial systems that gather plant 
+health data to an interactive experiences
+using novel platforms such as the Microsoft 
+HoloLens 2.  I will be graduating with a BS 
+in CS and a minor in Interactive Media from
+the University of Southern California in 2024.
 </p>
 
 <div style="text-align: center">
