@@ -5,22 +5,19 @@ title: About
 <div align="center" style="margin-top: 6%">
 
 <p style="text-align: center">
-    <img src="assets/images/pfp-cicle.png" width="200" height="200">
+    <img src="assets/images/Segovia PFP Circle.png" width="250" height="250">
 </p>
 <br>
 <h1 style="text-align: center">Who is Spencer?</h1>
 <br>
 
 <p class="bio">
-I am a software engineer with a strong passion
-in combining multiple disciplines to make
-innovative creations ranging from autonomous 
-unmanned aerial systems that gather plant 
-health data to an interactive experiences
-using novel platforms such as the Microsoft 
-HoloLens 2.  I will be graduating with a BS 
-in CS and a minor in Interactive Media from
-the University of Southern California in 2024.
+I'm an XR developer with a passion for exploring 
+and furthering the applications and capabilities 
+of XR technologies.  I will be graduating with a BS 
+in CS and a minor in Immersive Media in 2024 as
+well as with an MS in CS in 2025 from the 
+University of Southern California.
 </p>
 
 <div style="text-align: center">
