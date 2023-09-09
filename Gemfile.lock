@@ -40,6 +40,8 @@ GEM
     eventmachine (1.2.7-x64-mingw32)
     execjs (2.8.1)
     ffi (1.15.5)
+    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-mingw32)
     forwardable-extended (2.6.0)
     google-protobuf (3.24.1)
     http_parser.rb (0.8.0)
@@ -123,6 +125,8 @@ GEM
       google-protobuf (~> 3.23)
     sass-embedded (1.66.1-x64-mingw32)
       google-protobuf (~> 3.23)
+    sass-embedded (1.66.1-x86_64-darwin)
+      google-protobuf (~> 3.23)
     sassc (2.4.0)
       ffi (~> 1.9)
     sassc (2.4.0-x64-mingw32)
@@ -157,6 +161,7 @@ GEM
 PLATFORMS
   x64-mingw-ucrt
   x64-mingw32
+  x86_64-darwin-23
 
 DEPENDENCIES
   bootstrap (~> 5.0.1)
