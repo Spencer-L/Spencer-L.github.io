@@ -29,13 +29,13 @@ Computer Science from USC and will be graduating with a M.S. in Computer Science
 </p>
 <div class="medialinks">
     <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
-        <img src="assets/images/linkedin.png" align="center" width="30" height="30">
+        <img src="assets/logos/linkedin.png" align="center" width="30" height="30">
     </a>
     <a href="https://github.com/Spencer-L" target="_blank">
-        <img src="assets/images/GitHub-Logo.png" width="30" height="30">
+        <img src="assets/logos/GitHub-Logo.png" width="30" height="30">
     </a>
     <a href="https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AFix5Ma87LSoh67UcUIhdz9x0_v8Z9shKRm48q6_KJp6XKpRVns6ZuzhZDb7LV7oIxeBqhT2g_FPHnTYKvzt1C2uSm9S&user=RMcELeEAAAAJ" target="_blank">
-        <img src="assets/images/Google-Scholar-Logo.png" width="35" height="35">
+        <img src="assets/logos/Google-Scholar-Logo.png" width="35" height="35">
     </a>
 </div>
 </div>
