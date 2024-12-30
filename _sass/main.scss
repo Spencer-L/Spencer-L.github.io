@@ -68,6 +68,9 @@ figure {
 .overlay-container:hover .overlay {
   opacity: 1;
 }
+.overlay-container:hover img {
+  opacity: 0.5;
+}
 
 .overlay {
   position: absolute;
@@ -90,6 +93,7 @@ figure {
   position: absolute;
   top: 50%;
   left: 50%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
