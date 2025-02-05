@@ -17,7 +17,7 @@ a passion for building artificially intelligent and spatially-aware socially int
 currently an active researcher at the University of Southern California's
 Institute for Creative Technologies with the Mixed Reality Lab, Virtual Human Therapeutics Lab, as well
 as the Mobile & Environmental Media Lab at the USC School of Cinematic Arts. I hold a B.S. in 
-Computer Science from USC and will be graduating with a M.S. in Computer Science from USC in Spring of 2025.
+Computer Science and minor in Immersive Media from USC and will be graduating with a M.S. in Computer Science from USC in Spring of 2025.
 .
 </p>
 
