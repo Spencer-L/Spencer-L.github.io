@@ -12,7 +12,7 @@ title: About
 <br>
 
 <p class="bio">
-Glad you asked!  I'm an Affective Computing and XR researcher/developer with
+Glad you asked!  I'm an AI & XR researcher/developer in the Affective Computing field with
 a passion for building artificially intelligent and spatially-aware socially interactive agents.  I'm
 currently an active researcher at the University of Southern California's
 Institute for Creative Technologies with the Mixed Reality Lab, Virtual Human Therapeutics Lab, as well
