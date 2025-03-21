@@ -25,7 +25,7 @@ Computer Science and minor in Immersive Media from USC and will be graduating wi
 <br>
 <h1>Let's Connect!</h1>
 
-<p>[firstAndLastName][dot]2002[at]gmail[dot]com
+<p>spencerlin[dot]2002[at]gmail[dot]com
 </p>
 <div class="medialinks">
     <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
