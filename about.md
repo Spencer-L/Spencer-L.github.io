@@ -12,13 +12,7 @@ title: About
 <br>
 
 <p class="bio">
-Glad you asked!  I'm an AI & XR researcher/developer in the Affective Computing field with
-a passion for building artificially intelligent and spatially-aware socially interactive agents.  I'm
-currently an active researcher at the University of Southern California's
-Institute for Creative Technologies with the Mixed Reality Lab, Virtual Human Therapeutics Lab, as well
-as the Mobile & Environmental Media Lab at the USC School of Cinematic Arts. I hold a B.S. in 
-Computer Science and minor in Immersive Media from USC and will be graduating with a M.S. in Computer Science from USC in Spring of 2025.
-.
+Glad you asked!  I'm an AI & XR researcher/developer in the Affective Computing field with a passion for building artificially intelligent and spatially-aware socially interactive agents. I'm currently an active researcher at the University of Southern California's Institute for Creative Technologies with the Mixed Reality Lab, Virtual Human Therapeutics Lab, as well as the Mobile & Environmental Media Lab at the USC School of Cinematic Arts. I hold a Master’s and Bachelor’s degree in Computer Science and minor in Immersive Media from USC.
 </p>
 
 <div style="text-align: center">
