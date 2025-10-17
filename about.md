@@ -12,7 +12,7 @@ title: About
 <br>
 
 <p class="bio">
-Glad you asked!  I'm the founder of Estuary, a B2B2C one-stop-shop infra provider to create & deploy AI characters.  My background is in AI & XR researching and developing bleeding edge spatially intelligent AI agents.  I was previously a researcher at the Institute for Creative Technologies and am a visiting researcher at the Mobile & Environmental Media Lab at the USC School of Cinematic Arts.  I have also collaborated with NASA to develop multimodal fully-local AI-powered AR HUDs.  I hold a Master’s and Bachelor’s degree in Computer Science and minor in Immersive Media from USC.
+Glad you asked!  I'm the founder of Estuary, a one-stop-shop B2B2C  infra provider to create & deploy AI characters.  My background is in AI & XR researching and developing bleeding edge spatially intelligent AI agents.  I was previously a researcher at the Institute for Creative Technologies and am a visiting researcher at the Mobile & Environmental Media Lab at the USC School of Cinematic Arts.  I have also collaborated with NASA to develop multimodal fully-local AI-powered AR HUDs.  I hold a Master’s and Bachelor’s degree in Computer Science and minor in Immersive Media from USC.
 </p>
 
 <div style="text-align: center">
