@@ -12,14 +12,14 @@ title: About
 <br>
 
 <p class="bio">
-Glad you asked!  I'm an AI & XR researcher/developer in the Affective Computing field with a passion for building artificially intelligent and spatially-aware socially interactive agents. I'm currently an active researcher at the University of Southern California's Institute for Creative Technologies with the Mixed Reality Lab, Virtual Human Therapeutics Lab, as well as the Mobile & Environmental Media Lab at the USC School of Cinematic Arts. I hold a Master’s and Bachelor’s degree in Computer Science and minor in Immersive Media from USC.
+Glad you asked!  I'm the founder of Estuary, a one-stop-shop B2B2C  infra provider to create & deploy AI characters.  My background is in AI & XR researching and developing bleeding edge spatially intelligent AI agents.  I was previously a researcher at the Institute for Creative Technologies and am a visiting researcher at the Mobile & Environmental Media Lab at the USC School of Cinematic Arts.  I have also collaborated with NASA to develop multimodal fully-local AI-powered AR HUDs.  I hold a Master’s and Bachelor’s degree in Computer Science and minor in Immersive Media from USC.
 </p>
 
 <div style="text-align: center">
 <br>
 <h1>Let's Connect!</h1>
 
-<p>spencerlin[dot]2002[at]gmail[dot]com
+<p>spencer[at]estuary-ai[dot]com
 </p>
 <div class="medialinks">
     <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
