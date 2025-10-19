@@ -12,3 +12,6 @@ _site/
 vendor/
 
 Gemfile.lock
+
+# npm packages
+node_modules/
