@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "lucide": "^0.546.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.25.11"
+  },
+  "scripts": {
+    "build:js": "esbuild _javascript/main.js --bundle --outfile=assets/js/bundle.js --minify",
+    "watch:js": "esbuild _javascript/main.js --bundle --outfile=assets/js/bundle.js --watch",
+    "dev": "npm run watch:js & bundle exec jekyll serve"
+  }
+}

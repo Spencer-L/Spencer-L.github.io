@@ -19,11 +19,12 @@ Glad you asked!  I'm the founder of Estuary, a one-stop-shop B2B2C  infra provid
 <br>
 <h1>Let's Connect!</h1>
 
-<p>spencer[at]estuary-ai[dot]com
-</p>
 <div class="medialinks">
     <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
         <img src="assets/logos/linkedin.png" align="center" width="30" height="30">
+    </a>
+    <a href="mailto:spencer@estuary-ai.com">
+        <img src="assets/logos/Mail-Glyph.png" align="center" width="30" height="30">
     </a>
     <a href="https://github.com/Spencer-L" target="_blank">
         <img src="assets/logos/GitHub-Logo.png" width="30" height="30">
