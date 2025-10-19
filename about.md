@@ -18,6 +18,7 @@ Glad you asked!  I'm the founder of Estuary, a one-stop-shop B2B2C  infra provid
 <div style="text-align: center">
 <br>
 <h1>Let's Connect!</h1>
+<br>
 
 <div class="medialinks">
     <a href="https://www.linkedin.com/in/spencer-lin-bb409b1b7/" target="_blank">
